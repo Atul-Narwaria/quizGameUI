@@ -1,0 +1,1 @@
+[{"id":"contest1","title":"Sports Quiz Championship","entryFee":50,"totalPrize":5000,"participants":100,"startTime":"2023-07-15T18:00:00","endTime":"2023-07-15T20:00:00","questionIds":["q1","q2","q3","q4","q5"],"leaderboard":[{"userId":"user1","score":95,"prize":1000},{"userId":"user2","score":90,"prize":500}]}]
